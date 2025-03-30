@@ -26,7 +26,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-duration: 2s;
   animation-duration: 2s;
 }
-/* 
+/*
 @-webkit-keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
     -webkit-transform: translateY(0);
@@ -68,7 +68,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounce;
   animation-name: bounce;
 }
-/* 
+/*
 @-webkit-keyframes flash {
   0%, 50%, 100% {
     opacity: 1;
@@ -95,7 +95,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
-/* 
+/*
 @-webkit-keyframes pulse {
   0% {
     -webkit-transform: scale(1);
@@ -137,7 +137,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: pulse;
   animation-name: pulse;
 }
-/* 
+/*
 @-webkit-keyframes rubberBand {
   0% {
     -webkit-transform: scale(1);
@@ -201,7 +201,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: rubberBand;
   animation-name: rubberBand;
 }
-/* 
+/*
 @-webkit-keyframes shake {
   0%, 100% {
     -webkit-transform: translateX(0);
@@ -243,7 +243,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: shake;
   animation-name: shake;
 }
-/* 
+/*
 @-webkit-keyframes swing {
   20% {
     -webkit-transform: rotate(15deg);
@@ -310,7 +310,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: swing;
   animation-name: swing;
 }
-/* 
+/*
 @-webkit-keyframes tada {
   0% {
     -webkit-transform: scale(1);
@@ -376,7 +376,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
-/* 
+/*
 @-webkit-keyframes wobble {
   0% {
     -webkit-transform: translateX(0%);
@@ -462,7 +462,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: wobble;
   animation-name: wobble;
 }
-/* 
+/*
 @-webkit-keyframes bounceIn {
   0% {
     opacity: 0;
@@ -521,7 +521,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounceIn;
   animation-name: bounceIn;
 }
-/* 
+/*
 @-webkit-keyframes bounceInDown {
   0% {
     opacity: 0;
@@ -578,7 +578,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounceInDown;
   animation-name: bounceInDown;
 }
-/* 
+/*
 @-webkit-keyframes bounceInLeft {
   0% {
     opacity: 0;
@@ -635,7 +635,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounceInLeft;
   animation-name: bounceInLeft;
 }
-/* 
+/*
 @-webkit-keyframes bounceInRight {
   0% {
     opacity: 0;
@@ -692,7 +692,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounceInRight;
   animation-name: bounceInRight;
 }
-/* 
+/*
 @-webkit-keyframes bounceInUp {
   0% {
     opacity: 0;
@@ -749,7 +749,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounceInUp;
   animation-name: bounceInUp;
 }
-/* 
+/*
 @-webkit-keyframes bounceOut {
   0% {
     -webkit-transform: scale(1);
@@ -806,7 +806,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounceOut;
   animation-name: bounceOut;
 }
-/* 
+/*
 @-webkit-keyframes bounceOutDown {
   0% {
     -webkit-transform: translateY(0);
@@ -852,7 +852,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounceOutDown;
   animation-name: bounceOutDown;
 }
-/* 
+/*
 @-webkit-keyframes bounceOutLeft {
   0% {
     -webkit-transform: translateX(0);
@@ -898,7 +898,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounceOutLeft;
   animation-name: bounceOutLeft;
 }
-/* 
+/*
 @-webkit-keyframes bounceOutRight {
   0% {
     -webkit-transform: translateX(0);
@@ -944,7 +944,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounceOutRight;
   animation-name: bounceOutRight;
 }
-/* 
+/*
 @-webkit-keyframes bounceOutUp {
   0% {
     -webkit-transform: translateY(0);
@@ -990,7 +990,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: bounceOutUp;
   animation-name: bounceOutUp;
 }
-/* 
+/*
 @-webkit-keyframes fadeIn {
   0% {
     opacity: 0;
