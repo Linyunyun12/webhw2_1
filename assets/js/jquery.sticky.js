@@ -1,4 +1,10 @@
-// Sticky Plugin v1.0.4 for jQuery
+if (window.addEventListener) {
+  window.addEventListener('scroll', scroller, { passive: true });
+  window.addEventListener('resize', resizer, { passive: true });
+} else if (window.attachEvent) {
+  window.attachEvent('onscroll', scroller);
+  window.attachEvent('onresize', resizer);
+}// Sticky Plugin v1.0.4 for jQuery
 // =============
 // Author: Anthony Garand
 // Improvements by German M. Bravo (Kronuz) and Ruud Kamphuis (ruudk)
